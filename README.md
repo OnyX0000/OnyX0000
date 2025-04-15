@@ -1,52 +1,41 @@
 # 안녕하세요! 👋 OnyX0000입니다
 
 ## 🚀 About Me
-개발과 코딩 챌린지에 관심이 많은 개발자입니다. AWS를 활용한 서비스 개발과 알고리즘 학습에 집중하고 있습니다. 특히 법률 관련 서비스 개발 및 검색 기능 구현에 경험이 있습니다.
+**데이터 기반 인사이트 도출**과 **AI 모델 활용**에 집중하는 예비 데이터 사이언티스트입니다. 감성 분석, 스포츠 데이터 예측, 법률 검색, 웹툰 분석 등 **텍스트 및 로그 기반 데이터 분석** 프로젝트를 다수 수행해왔습니다. FastAPI, Pandas, LangChain, SQLAlchemy, AWS 등 다양한 스택을 활용해 분석 결과를 **실제 서비스화**하는 경험에 중점을 두고 있습니다.
 
-## 💼 개인 프로젝트
-- **[LOWLAW-AWS](https://github.com/OnyX0000/LOWLAW-AWS)**: AWS 인프라를 활용한 법률 관련 서비스
-- **[LOWLAW-AWS-lambda](https://github.com/OnyX0000/LOWLAW-AWS-lambda)**: AWS Lambda를 활용한 서버리스 기능 구현
-- **[graduate_search_prototype](https://github.com/OnyX0000/graduate_search_prototype)**: 검색 기능 프로토타입 개발
-- **[coding_test](https://github.com/OnyX0000/coding_test)**: 알고리즘 및 코딩 테스트 학습 저장소 (최근 활발히 활동 중)
+## 💼 대표 프로젝트
+* **LOWLAW-AWS**: 법률 문서 검색 및 요약 기능 구현. 검색 정확도 향상을 위한 토크나이저 커스터마이징 및 Elasticsearch 기반 쿼리 최적화 수행.
+* **감성 일지 자동 생성 시스템**: 유저의 게임 로그를 기반으로 감정 상태를 추론하고 일지 형태로 출력. LangChain + LangGraph 기반의 다단계 프로세스 설계.
+* **EPL 승률 예측 및 시즌 시뮬레이션**: 경기 데이터를 기반으로 머신러닝 예측 모델을 학습하고, 팀 성적을 시뮬레이션. 선수 출전 여부에 따른 성적 변화 분석 및 종합 기여도 지표 설계.
+* **네이버 웹툰 감정 분석 프로젝트**: 웹툰 리뷰 데이터를 수집하여 긍정/부정 감성 분류 및 주제별 토픽 분석 수행. 워드클라우드, 시계열 시각화를 통해 사용자 반응 트렌드 도출.
+* **건설 사고 예방 AI (DACON)**: 실제 사고 데이터를 바탕으로 사고 유형 분류 및 텍스트 기반 대책 생성 모델 구축.
 
-## 🔄 관심 있는 오픈소스/포크 프로젝트
-- **[LOWLAW-FINAL](https://github.com/OnyX0000/LOWLAW-FINAL)**: 법률 관련 최종 서비스 프로젝트
-- **[DACON-construction-accident-prevention](https://github.com/OnyX0000/DACON-construction-accident-prevention)**: 건설 사고 예방 머신러닝 프로젝트
-- **[Presentation-Agent](https://github.com/OnyX0000/Presentation-Agent)**: 프레젠테이션 에이전트 도구
-- **[Integrate](https://github.com/OnyX0000/Integrate)**: 통합 솔루션 프로젝트
-- **[Parking_Genius](https://github.com/OnyX0000/Parking_Genius)**: 주차 관리 시스템
+## 📊 기술 스택
+* **분석/ML**: Pandas, Numpy, Scikit-learn, PyCaret
+* **NLP**: KoNLPy, HuggingFace, LangChain, Elasticsearch
+* **웹서비스**: FastAPI, Streamlit, SQLAlchemy
+* **인프라/배포**: AWS (Lambda, S3, EC2), Docker, Git
 
-## 🛠️ 기술 스택
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 📝 활동 요약
+* 2025년 4월: 감성 일지 자동 생성 시스템 고도화 (LangGraph 적용)
+* 2025년 3월: EPL 시뮬레이션 모델링 및 분석 리포트 자동화
+* 2025년 3월: 웹툰 감정 분석 및 리뷰 시각화 프로젝트 진행
+
+## 🌱 현재 학습 중
+* 사용자 로그 기반 감정/의도 분석
+* 시계열 예측 및 사용자 행동 예측 모델링
+* LLM 기반 질의응답 시스템 설계
+* SQL 최적화 및 데이터 엔지니어링
+
+## 📫 연락 방법
+* GitHub: [@OnyX0000](https://github.com/OnyX0000)
+
+## 🎯 나를 표현하는 한 문장
+"데이터로부터 통찰을 이끌어내고, 이를 바탕으로 실질적인 사회적 가치를 전달하는 데이터 사이언티스트를 지향합니다."
 
 ## 📊 GitHub 통계
 ![OnyX0000의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=OnyX0000&show_icons=true&theme=radical)
 
-## 📈 활동 그래프
-![GitHub 활동 그래프](https://activity-graph.herokuapp.com/graph?username=OnyX0000&theme=github)
-
-## 🏆 최근 활동
-- 코딩 테스트 문제 풀이 및 알고리즘 학습 (2025년 3월)
-- 건설 사고 예방 관련 AI 프로젝트 탐색 (2025년 3월)
-- 프레젠테이션 에이전트와 주차 관리 시스템 탐색 (2025년 4월)
-
-## 📫 연락 방법
-- GitHub: [@OnyX0000](https://github.com/OnyX0000)
-
-## 🌱 현재 학습 중
-- 알고리즘 문제 해결 기술
-- 클라우드 아키텍처 설계
-- 서버리스 애플리케이션 개발
-- AI 및 머신러닝 기법
-
-## ⚡ 재미있는 사실
-- 매일 새로운 코딩 문제를 풀고 기록하는 습관을 들이고 있습니다!
-- 법률 정보 접근성 향상을 위한 서비스에 관심이 많습니다.
-- 오픈소스 프로젝트 기여에 관심이 있습니다.
-
 ---
 
-✨ *코드로 세상을 더 나은 곳으로 만들어 갑시다!* ✨
+✨ *데이터로 세상을 더 나은 곳으로 만들어 갑시다!* ✨
