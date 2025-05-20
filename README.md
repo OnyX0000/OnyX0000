@@ -6,7 +6,7 @@
 ---
 
 ## 💡 About Me
-- 법률 검색, 건설사고 예방, 발표 자동화, 주차장 AI, 웹툰 인기 예측 등 다양한 도메인에서 실전 프로젝트 경험
+- 법률 검색, 악성 URL 탐지, 발표 자동화, 주차장 AI, 웹툰 인기 예측 등 다양한 도메인에서 실전 프로젝트 경험
 - 백엔드, AI 모델, UI까지 직접 연결해 구조 흐름을 주도하는 설계형 인재
 - 데이터와 모델을 쌓고, 결과는 실제 서비스로 구현하는 사람
 
@@ -42,44 +42,44 @@
 
 | 🌟 Project | 기간 | 주요 스택 | 링크 |
 |:---:|:---:|:---:|:---:|
-| LOWLAW-AWS | 2023.08 ~ 2023.09 | FastAPI, Elasticsearch, Python | [Repo](https://github.com/OnyX0000/LOWLAW-AWS) |
-| DACON 건설사고 예방 | 2025.03 ~ 2025.05 | LangChain, HuggingFace, Python, Scikit-learn | [Repo](https://github.com/OnyX0000/DACON-construction-accident-prevention) |
-| Presentation-Agent | 2025.03 ~ 2025.04 | FastAPI, Streamlit, GPT-4o, Google TTS, ChromaDB | [Repo](https://github.com/OnyX0000/Presentation-Agent) |
-| Parking_Genius | 2025.04 | FastAPI, YOLOv11x, DeepSORT, Python | [Repo](https://github.com/OnyX0000/Parking_Genius) |
 | K-Webtoon-Popularity-Prediction | 2025.01 ~ 2025.02 | Python, LightGBM, XGBoost, 감정분석 | [Repo](https://github.com/OnyX0000/K-Webtoon-Popularity-Prediction-with-Machine-Learnin) |
+| Parking_Genius | 2025.02 ~ 2025.03 | FastAPI, YOLOv11x, DeepSORT, Python | [Repo](https://github.com/OnyX0000/Parking_Genius) |
+| Presentation-Agent | 2025.03 ~ 2025.04 | FastAPI, Streamlit, GPT-4o, Google TTS, ChromaDB | [Repo](https://github.com/OnyX0000/Presentation-Agent) |
+| Dacon/Construction_accident_prediction | 2025.02 ~ 2025.03 | Python, LangChain, FAISS, SentenceTransformer | [README](https://github.com/OnyX0000/Dacon/tree/main/Construction_accident_prediction) |
+| Dacon/Mal_URL (악성 URL 탐지) | 2024.12 ~ 2025.01 | Python, AutoGluon, XGBoost, scikit-learn | [README](https://github.com/OnyX0000/Dacon/tree/main/Mal_URL) |
 | reeding_trip (T-래블) | 2024.12 | Pandas, OpenAPI, Folium, NetworkX | [Repo](https://github.com/OnyX0000/reeding_trip) |
+| LOWLAW-AWS | 2023.08 ~ 2023.09 | FastAPI, Elasticsearch, Python | [Repo](https://github.com/OnyX0000/LOWLAW-AWS) |
 | graduate_search_prototype | 2023.06 | Python, Pandas | [Repo](https://github.com/OnyX0000/graduate_search_prototype) |
 | coding_test | 2024.02 ~ | Python | [Repo](https://github.com/OnyX0000/coding_test) |
-| Dacon | 2025.05 | Jupyter Notebook, Python | [Repo](https://github.com/OnyX0000/Dacon) |
 
 ---
 
 ## 🧩 Project Highlights
 
-### LOWLAW-AWS - 법률 문서 검색/요약 시스템
-- **기간:** 2023.08 ~ 2023.09
-- **기술:** FastAPI, Elasticsearch, Python
-- **내용:** 법률 문서 데이터 기반 검색엔진, 쿼리 최적화, 요약 자동화
+### K-Webtoon-Popularity-Prediction - 웹툰 인기 예측
+- **기간:** 2025.01 ~ 2025.02
+- **기술:** Python, LightGBM, XGBoost, 감정분석
+- **내용:** 네이버 웹툰 데이터 크롤링, 댓글/장르/감정 기반 인기 예측, 실시간 예측 모델 배포
 
-### DACON 건설사고 예방 - 사고 대응 AI
-- **기간:** 2025.03 ~ 2025.05
-- **기술:** LangChain, HuggingFace, Scikit-learn
-- **내용:** 건설 사고 데이터를 바탕으로 사고 유형 분류 및 대응 문장 생성, PDF/CSV 혼합 검색, LLM 기반 질의응답
+### Parking_Genius - 스마트 주차 공간 탐지
+- **기간:** 2025.02 ~ 2025.03
+- **기술:** FastAPI, YOLOv11x, DeepSORT, Python
+- **내용:** CCTV 영상 기반 주차 공간 탐지, 실시간 API, 웹 시각화, 차량 추적
 
 ### Presentation-Agent - 발표 자동화 시스템
 - **기간:** 2025.03 ~ 2025.04
 - **기술:** FastAPI, Streamlit, GPT-4o, Google TTS, ChromaDB
 - **내용:** PDF 발표자료 → 대본 자동 생성 → TTS 음성 변환, 실시간 Q&A 챗봇, 발표 준비 자동화
 
-### Parking_Genius - 스마트 주차 공간 탐지
-- **기간:** 2025.04
-- **기술:** FastAPI, YOLOv11x, DeepSORT, Python
-- **내용:** CCTV 영상 기반 주차 공간 탐지, 실시간 API, 웹 시각화, 차량 추적
+### Dacon/Construction_accident_prediction - 건설사고 예방 Agent
+- **기간:** 2025.02 ~ 2025.03
+- **기술:** Python, LangChain, FAISS, SentenceTransformer
+- **내용:** 건설공사 사고 상황 데이터를 분석하여 사고 원인과 재발 방지 대책을 자동 생성하는 AI 시스템. 다양한 RAG/Ensemble 검색기, LLM 기반 대응 문구 생성, CSV 결과 저장
 
-### K-Webtoon-Popularity-Prediction - 웹툰 인기 예측
-- **기간:** 2025.01 ~ 2025.02
-- **기술:** Python, LightGBM, XGBoost, 감정분석
-- **내용:** 네이버 웹툰 데이터 크롤링, 댓글/장르/감정 기반 인기 예측, 실시간 예측 모델 배포
+### Dacon/Mal_URL - 악성 URL 탐지
+- **기간:** 2024.12 ~ 2025.01
+- **기술:** Python, AutoGluon, XGBoost, scikit-learn
+- **내용:** URL 기반 특징 추출, 다양한 ML 모델 및 앙상블, AutoGluon MultiModalPredictor, Soft-Voting, 대회 리더보드 19위
 
 ### reeding_trip (T-래블) - 수도권 여행 인사이트
 - **기간:** 2024.12
