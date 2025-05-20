@@ -2,17 +2,18 @@
 
 ---
 
+> **"기술은 만들어내는 것보다, 살아 숨 쉬게 만드는 것이 중요하다."**  
+> 데이터와 AI를 현장에 실질적으로 녹여내는 실전형 데이터 사이언티스트입니다.
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=500&lines=Data+Scientist+%2F+AI+Engineer;Interested+in+LLM+%26+Agents;기술은+활용할+때+가치가+있다" alt="Typing SVG" />
 </div>
 
 ---
 
-> **"기술은 만들어내는 것보다, 살아 숨 쉬게 만드는 것이 중요하다."**  
-> 데이터와 AI를 현장에 실질적으로 녹여내는 실전형 데이터 사이언티스트입니다.
-
 ## 💡 About Me
----
 
 - 문제 정의부터 모델링, API 설계, 데이터베이스 연동, UI 통합까지 **전체 서비스 흐름을 직접 설계하고 구현**합니다.
 - 법률 검색, 악성 URL 탐지, 발표 자동화, 주차장 AI, 웹툰 인기 예측 등 **다양한 도메인에서 직접 문제를 해결하려는 프로젝트 경험**이 있습니다.
