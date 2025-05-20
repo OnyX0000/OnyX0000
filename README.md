@@ -1,7 +1,9 @@
 # 👋 안녕하세요, 이진규입니다!
 
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=500&lines=Data+Scientist+%2F+AI+Engineer;LLM+%26+Agent+Lover;Tech+is+meant+to+be+used" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=500&lines=Data+Scientist+%2F+AI+Engineer;Interested+in+LLM+%26+Agents;기술은+활용할+때+가치가+있다" alt="Typing SVG" />
 </div>
 
 ---
