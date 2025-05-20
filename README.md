@@ -4,10 +4,12 @@
 > 데이터와 AI를 현장에 실질적으로 녹여내는 실전형 데이터 사이언티스트입니다.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=500&lines=데이터+사이언티스트+%2F+AI+엔지니어;LLM+%26+AI+에이전트에+관심이+많습니다;기술은+활용할+때+가치가+있다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=500&lines=데이터+사이언티스트+%2F+AI+엔지니어;LLM+%EA%B0%80%EB%8A%A5%ED%95%9C+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%9D%80;%EA%B8%B0%EC%88%A0%EC%9D%80+%ED%99%9C%EC%9A%A9%ED%95%A0+%EB%95%8C+%EA%B0%92%EC%9D%B4+%EC%83%9D%EA%B8%B0%EB%8B%A4" alt="Typing SVG" />
 </div>
 
+
 ## 💡 About Me
+---
 
 - 문제 정의부터 모델링, API 설계, 데이터베이스 연동, UI 통합까지 **전체 서비스 흐름을 직접 설계하고 구현**합니다.
 - 법률 검색, 악성 URL 탐지, 발표 자동화, 주차장 AI, 웹툰 인기 예측 등 **다양한 도메인에서 직접 문제를 해결하려는 프로젝트 경험**이 있습니다.
