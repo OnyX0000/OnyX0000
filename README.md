@@ -4,20 +4,20 @@
 데이터 기반 인사이트 도출과 AI 모델 활용에 집중하는 예비 데이터 사이언티스트입니다. 텍스트/로그 기반 데이터 분석, 머신러닝, 웹서비스 개발, 실제 서비스화 경험을 쌓고 있습니다.
 
 ## 📚 대표 프로젝트 및 레포지토리
-| 레포 이름 | 공개/비공개 | 포크 | 주요 언어 | 설명 | 링크 |
-|-----------|------------|------|----------|------|------|
-| coding_test | 공개 | X | Python | 코딩테스트 풀이 자동 푸시 저장소 | [바로가기](https://github.com/OnyX0000/coding_test) |
-| Dacon | 비공개 | X | Jupyter Notebook | Dacon 데이터 분석 프로젝트 | [바로가기](https://github.com/OnyX0000/Dacon) |
-| OnyX0000 | 비공개 | X | - | GitHub 프로필 저장소 | [바로가기](https://github.com/OnyX0000/OnyX0000) |
-| LOWLAW-AWS | 비공개 | X | Python | 법률 문서 검색/요약, 검색 정확도 향상, Elasticsearch 등 | [바로가기](https://github.com/OnyX0000/LOWLAW-AWS) |
-| graduate_search_prototype | 공개 | X | Python | 졸업생 검색 프로토타입 | [바로가기](https://github.com/OnyX0000/graduate_search_prototype) |
-| ProjectISG-AI | 공개 | O | - | AI 프로젝트 (포크) | [바로가기](https://github.com/OnyX0000/ProjectISG-AI) |
-| LOWLAW-FINAL | 공개 | O | Python | 법률 관련 프로젝트 (포크) | [바로가기](https://github.com/OnyX0000/LOWLAW-FINAL) |
-| reeding_trip | 공개 | O | - | Dec 팀 프로젝트 (포크) | [바로가기](https://github.com/OnyX0000/reeding_trip) |
-| Presentation-Agent | 공개 | O | Jupyter Notebook | 프레젠테이션 에이전트 (포크) | [바로가기](https://github.com/OnyX0000/Presentation-Agent) |
-| Parking_Genius | 공개 | O | Jupyter Notebook | 주차장 AI (포크) | [바로가기](https://github.com/OnyX0000/Parking_Genius) |
-| K-Webtoon-Popularity-Prediction-with-Machine-Learnin | 공개 | O | - | 웹툰 인기 예측 (포크) | [바로가기](https://github.com/OnyX0000/K-Webtoon-Popularity-Prediction-with-Machine-Learnin) |
-| DACON-construction-accident-prevention | 공개 | O | Jupyter Notebook | 건설 사고 예방 AI (포크) | [바로가기](https://github.com/OnyX0000/DACON-construction-accident-prevention) |
+| 레포 이름 | 포크 | 주요 언어 | 설명 | 링크 |
+|-----------|------|----------|------|------|
+| coding_test | X | Python | 코딩테스트 풀이 자동 푸시 저장소 | [바로가기](https://github.com/OnyX0000/coding_test) |
+| Dacon | X | Jupyter Notebook | Dacon 데이터 분석 프로젝트 | [바로가기](https://github.com/OnyX0000/Dacon) |
+| OnyX0000 | X | - | GitHub 프로필 저장소 | [바로가기](https://github.com/OnyX0000/OnyX0000) |
+| LOWLAW-AWS | X | Python | 법률 문서 검색/요약, 검색 정확도 향상, Elasticsearch 등 | [바로가기](https://github.com/OnyX0000/LOWLAW-AWS) |
+| graduate_search_prototype | X | Python | 졸업생 검색 프로토타입 | [바로가기](https://github.com/OnyX0000/graduate_search_prototype) |
+| ProjectISG-AI | O | - | AI 프로젝트 (포크) | [바로가기](https://github.com/OnyX0000/ProjectISG-AI) |
+| LOWLAW-FINAL | O | Python | 법률 관련 프로젝트 (포크) | [바로가기](https://github.com/OnyX0000/LOWLAW-FINAL) |
+| reeding_trip | O | - | Dec 팀 프로젝트 (포크) | [바로가기](https://github.com/OnyX0000/reeding_trip) |
+| Presentation-Agent | O | Jupyter Notebook | 프레젠테이션 에이전트 (포크) | [바로가기](https://github.com/OnyX0000/Presentation-Agent) |
+| Parking_Genius | O | Jupyter Notebook | 주차장 AI (포크) | [바로가기](https://github.com/OnyX0000/Parking_Genius) |
+| K-Webtoon-Popularity-Prediction-with-Machine-Learnin | O | - | 웹툰 인기 예측 (포크) | [바로가기](https://github.com/OnyX0000/K-Webtoon-Popularity-Prediction-with-Machine-Learnin) |
+| DACON-construction-accident-prevention | O | Jupyter Notebook | 건설 사고 예방 AI (포크) | [바로가기](https://github.com/OnyX0000/DACON-construction-accident-prevention) |
 
 ## 💡 주요 경험
 - **LOWLAW-AWS**: 법률 문서 검색/요약, 토크나이저 커스터마이징, Elasticsearch 쿼리 최적화
