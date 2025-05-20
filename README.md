@@ -18,32 +18,6 @@
 
 ---
 
-## 🏫 Education
-
-- **상명대학교 서울캠퍼스**  
-  휴먼지능정보공학 전공  
-  `2017.03 ~ 2024.02`
-
----
-
-## 📓 외국어
-
-- **영어:** TOEIC 850 (2023.11)
-
----
-
-## 🏆 Awards
-
-| 대회명 | 날짜 | 수상 | 관련 프로젝트 |
-|:---|:---:|:---:|:---|
-| 2023학년도 1학기 캡스톤디자인 경진대회 | 2023/07 | 공과대학 부문 입선 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
-| AWS, KT AICE와 함께하는 빅데이터 경진대회 | 2023/09 | TOP4 총장상 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
-| AWS 루키 챔피언십 | 2023/12 | Elastic 상 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
-| 2023학년도 2학기 캡스톤디자인 경진대회 | 2024/01 | 공과대학 부문 대상 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
-
-
----
-
 ## 🧠 Skills
 
 <div align="left">
@@ -67,6 +41,31 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
+
+---
+
+## 🏫 Education
+
+- **상명대학교 서울캠퍼스**  
+  휴먼지능정보공학 전공  
+  `2017.03 ~ 2024.02`
+
+---
+
+## 📓 외국어
+
+- **영어:** TOEIC 850 (2023.11)
+
+---
+
+## 🏆 Awards
+
+| 대회명 | 날짜 | 수상 | 관련 프로젝트 |
+|:---|:---:|:---:|:---|
+| 2023학년도 1학기 캡스톤디자인 경진대회 | 2023/07 | 공과대학 부문 입선 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
+| AWS, KT AICE와 함께하는 빅데이터 경진대회 | 2023/09 | TOP4 총장상 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
+| AWS 루키 챔피언십 | 2023/12 | Elastic 상 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
+| 2023학년도 2학기 캡스톤디자인 경진대회 | 2024/01 | 공과대학 부문 대상 | [LOWLAW - 임대차 분쟁 해결을 돕는 법률 조언 서비스](https://github.com/OnyX0000/LOWLAW-FINAL) |
 
 ---
 
