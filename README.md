@@ -4,9 +4,8 @@
 > 데이터와 AI를 현장에 실질적으로 녹여내는 실전형 데이터 사이언티스트입니다.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=500&lines=데이터+사이언티스트+%26+AI+엔지니어;LLM+%2F+에이전트에+관심이+많습니다;기술은+활용할+때+가치가+있다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&random=false&width=500&lines=데이터+사이언티스트+%26+AI+엔지니어;LLM+및+에이전트+관심+보유;기술은+활용할+때+가치가+있다" alt="Typing SVG" />
 </div>
-
 
 ---
 
