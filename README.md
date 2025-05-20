@@ -1,8 +1,10 @@
 # 👋 안녕하세요, 이진규입니다!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=500&lines=데이터+사이언티스트%2FAI+엔지니어;LLM%26Agent+관심+많음;기술은+쓸+때+빛난다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=500&lines=Data+Scientist+%2F+AI+Engineer;LLM+%26+Agent+Lover;Tech+is+meant+to+be+used" alt="Typing SVG" />
 </div>
+
+---
 
 > **"기술은 만들어내는 것보다, 살아 숨 쉬게 만드는 것이 중요하다."**  
 > 데이터와 AI를 현장에 실질적으로 녹여내는 실전형 데이터 사이언티스트입니다.
