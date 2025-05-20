@@ -79,7 +79,7 @@
 
 ## 🔥 주요 프로젝트
 
-### 🎮 LangGraph 기반 게임 내 감성 AI 시스템  
+### 🎮 Langchain 및 LangGraph 기반 게임 내 AI 기능  
 > 감성일지 생성 및 MBTI 기반 AI 행동 예측 시스템 (`ProjectISG-AI`)  
 - **기간:** 2025.04 ~ 진행중
 - **기술 스택:** FastAPI, LangGraph, Ollama, PostgreSQL, MongoDB  
