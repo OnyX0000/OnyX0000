@@ -73,7 +73,7 @@
 
 ### K-Webtoon-Popularity-Prediction
 - **기간:** 2025.01 ~ 2025.02
-- **기술:** Python, LightGBM, XGBoost, 감정분석
+- **기술:** Python, LightGBM, XGBoost, KOTE, KoBERT
 - **내용:** 네이버 웹툰 데이터 크롤링, 댓글/장르/감정 기반 인기 예측, 실시간 예측 모델 배포.
 
 ### Dacon/Construction_accident_prediction
@@ -93,13 +93,15 @@
 
 ### LOWLAW-FINAL
 - **기간:** 2023.09
-- **기술:** FastAPI, Elasticsearch, Python
-- **내용:** 법률 문서 검색/요약, 검색 정확도 향상, Elasticsearch 기반 검색엔진.
+- **기술:** AWS, Elasticsearch, Python
+- **내용:** 법률/판례 문서 검색, 검색 정확도 향상, AWS/Elasticsearch 기반 검색엔진.
 
 ### graduate_search_prototype
 - **기간:** 2023.06
 - **기술:** Python, Pandas
-- **내용:** 졸업생 검색/분석 프로토타입, 데이터 기반 졸업생 정보 탐색.
+- **내용:** **법령 및 판례 문서에 대한 키워드 기반 검색 기능을 구현한 프로토타입.**  
+  초기 법률 검색 엔진의 구조 설계 및 검색 로직 실험을 통해 이후 **LOWLAW 프로젝트**의 기반 구조로 확장됨.
+
 
 ---
 
