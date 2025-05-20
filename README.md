@@ -42,49 +42,64 @@
 
 | 🌟 Project | 기간 | 주요 스택 | 링크 |
 |:---:|:---:|:---:|:---:|
-| K-Webtoon-Popularity-Prediction | 2025.01 ~ 2025.02 | Python, LightGBM, XGBoost, 감정분석 | [Repo](https://github.com/OnyX0000/K-Webtoon-Popularity-Prediction-with-Machine-Learnin) |
-| Parking_Genius | 2025.02 ~ 2025.03 | FastAPI, YOLOv11x, DeepSORT, Python | [Repo](https://github.com/OnyX0000/Parking_Genius) |
+| ProjectISG-AI | 2025.04 ~ 진행중 | FastAPI, LangGraph, Ollama, PostgreSQL, MongoDB | [Repo](https://github.com/OnyX0000/ProjectISG-AI) |
 | Presentation-Agent | 2025.03 ~ 2025.04 | FastAPI, Streamlit, GPT-4o, Google TTS, ChromaDB | [Repo](https://github.com/OnyX0000/Presentation-Agent) |
+| Parking_Genius | 2025.02 ~ 2025.03 | FastAPI, YOLOv11x, DeepSORT, Python | [Repo](https://github.com/OnyX0000/Parking_Genius) |
+| K-Webtoon-Popularity-Prediction | 2025.01 ~ 2025.02 | Python, LightGBM, XGBoost, 감정분석 | [Repo](https://github.com/OnyX0000/K-Webtoon-Popularity-Prediction-with-Machine-Learnin) |
 | Dacon/Construction_accident_prediction | 2025.02 ~ 2025.03 | Python, LangChain, FAISS, SentenceTransformer | [README](https://github.com/OnyX0000/Dacon/tree/main/Construction_accident_prediction) |
 | Dacon/Mal_URL (악성 URL 탐지) | 2024.12 ~ 2025.01 | Python, AutoGluon, XGBoost, scikit-learn | [README](https://github.com/OnyX0000/Dacon/tree/main/Mal_URL) |
 | reeding_trip (T-래블) | 2024.12 | Pandas, OpenAPI, Folium, NetworkX | [Repo](https://github.com/OnyX0000/reeding_trip) |
-| LOWLAW-AWS | 2023.08 ~ 2023.09 | FastAPI, Elasticsearch, Python | [Repo](https://github.com/OnyX0000/LOWLAW-AWS) |
+| LOWLAW-FINAL | 2023.09 | FastAPI, Elasticsearch, Python | [Repo](https://github.com/OnyX0000/LOWLAW-FINAL) |
 | graduate_search_prototype | 2023.06 | Python, Pandas | [Repo](https://github.com/OnyX0000/graduate_search_prototype) |
-| coding_test | 2024.02 ~ | Python | [Repo](https://github.com/OnyX0000/coding_test) |
 
 ---
 
 ## 🧩 Project Highlights
 
-### K-Webtoon-Popularity-Prediction - 웹툰 인기 예측
-- **기간:** 2025.01 ~ 2025.02
-- **기술:** Python, LightGBM, XGBoost, 감정분석
-- **내용:** 네이버 웹툰 데이터 크롤링, 댓글/장르/감정 기반 인기 예측, 실시간 예측 모델 배포
+### ProjectISG-AI
+- **기간:** 2025.04 ~ 진행중
+- **기술:** FastAPI, LangGraph, Ollama, PostgreSQL, MongoDB
+- **내용:** 감성일지 생성, MBTI 분석, 행동 로그 관리, SFX 생성 등 게임 내 실제 적용 가능한 AI 모듈을 직접 설계·구현. LangGraph 기반 워크플로우, LLM 통합, RESTful API, DB 병렬 설계 등 실전형 AI 백엔드.
 
-### Parking_Genius - 스마트 주차 공간 탐지
-- **기간:** 2025.02 ~ 2025.03
-- **기술:** FastAPI, YOLOv11x, DeepSORT, Python
-- **내용:** CCTV 영상 기반 주차 공간 탐지, 실시간 API, 웹 시각화, 차량 추적
-
-### Presentation-Agent - 발표 자동화 시스템
+### Presentation-Agent
 - **기간:** 2025.03 ~ 2025.04
 - **기술:** FastAPI, Streamlit, GPT-4o, Google TTS, ChromaDB
-- **내용:** PDF 발표자료 → 대본 자동 생성 → TTS 음성 변환, 실시간 Q&A 챗봇, 발표 준비 자동화
+- **내용:** PDF 발표자료 → 대본 자동 생성 → TTS 음성 변환, 실시간 Q&A 챗봇, 발표 준비 자동화.
 
-### Dacon/Construction_accident_prediction - 건설사고 예방 Agent
+### Parking_Genius
+- **기간:** 2025.02 ~ 2025.03
+- **기술:** FastAPI, YOLOv11x, DeepSORT, Python
+- **내용:** CCTV 영상 기반 주차 공간 탐지, 실시간 API, 웹 시각화, 차량 추적.
+
+### K-Webtoon-Popularity-Prediction
+- **기간:** 2025.01 ~ 2025.02
+- **기술:** Python, LightGBM, XGBoost, 감정분석
+- **내용:** 네이버 웹툰 데이터 크롤링, 댓글/장르/감정 기반 인기 예측, 실시간 예측 모델 배포.
+
+### Dacon/Construction_accident_prediction
 - **기간:** 2025.02 ~ 2025.03
 - **기술:** Python, LangChain, FAISS, SentenceTransformer
-- **내용:** 건설공사 사고 상황 데이터를 분석하여 사고 원인과 재발 방지 대책을 자동 생성하는 AI 시스템. 다양한 RAG/Ensemble 검색기, LLM 기반 대응 문구 생성, CSV 결과 저장
+- **내용:** 건설공사 사고 상황 데이터를 분석하여 사고 원인과 재발 방지 대책을 자동 생성하는 AI 시스템. 다양한 RAG/Ensemble 검색기, LLM 기반 대응 문구 생성, CSV 결과 저장.
 
-### Dacon/Mal_URL - 악성 URL 탐지
+### Dacon/Mal_URL (악성 URL 탐지)
 - **기간:** 2024.12 ~ 2025.01
 - **기술:** Python, AutoGluon, XGBoost, scikit-learn
-- **내용:** URL 기반 특징 추출, 다양한 ML 모델 및 앙상블, AutoGluon MultiModalPredictor, Soft-Voting, 대회 리더보드 19위
+- **내용:** URL 기반 특징 추출, 다양한 ML 모델 및 앙상블, AutoGluon MultiModalPredictor, Soft-Voting, 대회 리더보드 19위.
 
-### reeding_trip (T-래블) - 수도권 여행 인사이트
+### reeding_trip (T-래블)
 - **기간:** 2024.12
 - **기술:** Pandas, OpenAPI, Folium, NetworkX
-- **내용:** 수도권 대중교통/관광지 데이터 분석, 정책 개선 제안, 시각화
+- **내용:** 수도권 대중교통/관광지 데이터 분석, 정책 개선 제안, 시각화.
+
+### LOWLAW-FINAL
+- **기간:** 2023.09
+- **기술:** FastAPI, Elasticsearch, Python
+- **내용:** 법률 문서 검색/요약, 검색 정확도 향상, Elasticsearch 기반 검색엔진.
+
+### graduate_search_prototype
+- **기간:** 2023.06
+- **기술:** Python, Pandas
+- **내용:** 졸업생 검색/분석 프로토타입, 데이터 기반 졸업생 정보 탐색.
 
 ---
 
