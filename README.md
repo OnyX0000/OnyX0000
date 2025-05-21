@@ -70,10 +70,10 @@
 
 | 대회명 | 날짜 | 수상 | 관련 프로젝트 |
 |:---|:---:|:---:|:---|
-| 2023학년도 1학기 캡스톤디자인 경진대회 | 2023/07 | 공과대학 부문 입선 | [LOWLAW](https://github.com/OnyX0000/LOWLAW-FINAL) |
-| AWS, KT AICE와 함께하는 빅데이터 경진대회 | 2023/09 | TOP4 총장상 | [LOWLAW](https://github.com/OnyX0000/LOWLAW-FINAL) |
-| AWS 루키 챔피언십 | 2023/12 | Elastic 상 | [LOWLAW](https://github.com/OnyX0000/LOWLAW-FINAL) |
-| 2023학년도 2학기 캡스톤디자인 경진대회 | 2024/01 | 공과대학 부문 대상 | [LOWLAW](https://github.com/OnyX0000/LOWLAW-FINAL) |
+| 2023학년도 1학기 캡스톤디자인 경진대회 | 2023/07 | 공과대학 부문 입선 | [LOWLAW](https://github.com/OnyX0000/Integrate) |
+| AWS, KT AICE와 함께하는 빅데이터 경진대회 | 2023/09 | TOP4 총장상 | [LOWLAW](https://github.com/OnyX0000/Integrate) |
+| AWS 루키 챔피언십 | 2023/12 | Elastic 상 | [LOWLAW](https://github.com/OnyX0000/Integrate) |
+| 2023학년도 2학기 캡스톤디자인 경진대회 | 2024/01 | 공과대학 부문 대상 | [LOWLAW](https://github.com/OnyX0000/Integrate) |
 
 ---
 
