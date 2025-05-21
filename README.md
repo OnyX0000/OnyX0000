@@ -109,10 +109,36 @@
 
 ### 🏗️ LLM + RAG 기반 사고 대응 시스템  
 > 건설공사 사고 대응 문구 자동 생성 시스템 (`Construction_accident_prediction`)  
-- **기간:** 2025.02 ~ 2025.03  
+- **기간:** 2025.03 ~ 2025.03  
 - **기술 스택:** LangChain, FAISS, SentenceTransformer  
 - **설명:** 건설공사 사고 데이터를 기반으로 사고 원인 분석 및 유사 사례 검색, 대응 문구 자동 생성하는 RAG 기반 LLM 시스템.  
 - 🔗 [README](https://github.com/OnyX0000/Dacon/tree/main/Construction_accident_prediction)
+
+### 🛡️ 악성 URL 탐지 시스템  
+> 도메인 기반 악성 URL 여부 판별 모델 및 사용자 시각화 페이지 구현 (`Mal_URL`)  
+- **기간:** 2025.02 ~ 2025.03  
+- **기술 스택:** Python, Scikit-learn, LightGBM, Flask, Heroku, Pandas  
+- **설명:** URL 특성을 분석해 악성 여부를 분류하고 탐지 결과를 웹으로 시각화한 머신러닝 기반 보안 모델 구축.  
+- 🔗 [Repo Link](https://github.com/OnyX0000/Dacon/tree/main/Mal_URL)
+
+### 🚍 대중교통 기반 사용자 이동 분석  
+> 대중교통 이용자 데이터 기반 기간별 이용자 분석 및 시각화 (`Travel-Pattern-Analysis`)  
+- **기간:** 2023.12 ~ 2024.01  
+- **기술 스택:** Python, Pandas, Seaborn, Folium, Matplotlib, GeoPy  
+- **설명:** 서울시 대중교통 이용자 데이터를 활용해 기후동행카드 정책 관련 기간별 유동 인구 와 관광객 관련 데이터를 시계열/공간적으로 분석하여 T-Money에게 새로운 서비스 제안.  
+- 🔗 [Repo Link](https://github.com/OnyX0000/reeding_trip)
+
+### ⚖️ AWS와 Elasticsearch를 활용한 Q&A 챗봇 및 검색엔진  
+> 부동산 관련 Q&A 챗봇 및 법령, 판례 검색엔진 (`LOWLAW`)  
+- **기간:** 2023.03 ~ 2023.12  
+- **기술 스택:** Streamlit, Elasticsearch, Nori Tokenizer, TF-IDF, Python  
+- **설명:** 법령, 판례 데이터를 색인하고 자연어 질의 기반 유사 질문을 검색하는 법률 정보 탐색 시스템 구현.  
+- 🏆 **성과:**  
+  - 2023학년도 1학기 캡스톤디자인 경진대회 **공과대학 부문 입선**  
+  - AWS, KT AICE 빅데이터 경진대회 **TOP4 총장상**  
+  - AWS 루키 챔피언십 **Elastic상**  
+  - 2023학년도 2학기 캡스톤디자인 경진대회 **공과대학 부문 대상**  
+- 🔗 [Repo Link](https://github.com/OnyX0000/Integrate)
 
 ---
 
