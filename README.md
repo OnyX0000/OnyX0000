@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=500&lines=Data+Scientist+%2F+AI+Engineer;Interested+in+LLM+%26+Agents;The+value+of+technology+lies+in+its+use." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F94EF&center=true&vCenter=true&width=500&lines=Data+Scientist+%2F+AI+Engineer;Interested+in+LLM+%26+AI+Agents;The+value+of+technology+lies+in+its+use." alt="Typing SVG" />
 </div>
 
 ---
