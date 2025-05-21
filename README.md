@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OnyX0000&color=brightgreen" alt="Profile views" />
+</div>
+
 # 👋 안녕하세요, 이진규입니다!
 
 ---
@@ -165,7 +169,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OnyX0000&color=brightgreen" alt="Profile views" />
-  <br>
   <em>✨ 데이터를 구조화하고 서비스로 전환하는 실전형 AI 개발자 ✨</em>
 </div>
