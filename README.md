@@ -149,6 +149,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=OnyX0000&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnyX0000&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OnyX0000&color=brightgreen" alt="Profile views" />
   <br>
