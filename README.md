@@ -127,7 +127,7 @@
 
 ### 🚍 대중교통 기반 사용자 이동 분석  
 > 대중교통 이용자 데이터 기반 기간별 이용자 분석 및 시각화 (`Travel-Pattern-Analysis`)  
-- **기간:** 2023.12 ~ 2024.01  
+- **기간:** 2024.12 ~ 2025.01  
 - **기술 스택:** Python, Pandas, Seaborn, Folium, Matplotlib, GeoPy  
 - **설명:** 서울시 대중교통 이용자 데이터를 활용해 기후동행카드 정책 관련 기간별 유동 인구 와 관광객 관련 데이터를 시계열/공간적으로 분석하여 T-Money에게 새로운 서비스 제안.  
 - 🔗 [Repo Link](https://github.com/OnyX0000/reeding_trip)
