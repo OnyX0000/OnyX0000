@@ -121,7 +121,7 @@
 ### 🛡️ 악성 URL 탐지 시스템  
 > 도메인 기반 악성 URL 여부 판별 모델 및 사용자 시각화 페이지 구현 (`Mal_URL`)  
 - **기간:** 2025.02 ~ 2025.03  
-- **기술 스택:** Python, Scikit-learn, LightGBM, Flask, Heroku, Pandas  
+- **기술 스택:** Python, Scikit-learn, LightGBM, Pandas  
 - **설명:** URL 특성을 분석해 악성 여부를 분류하고 탐지 결과를 웹으로 시각화한 머신러닝 기반 보안 모델 구축.  
 - 🔗 [Repo Link](https://github.com/OnyX0000/Dacon/tree/main/Mal_URL)
 
