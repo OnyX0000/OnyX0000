@@ -83,11 +83,11 @@
 
 ## 🔥 주요 프로젝트
 
-### 🎮 Langchain 및 LangGraph 기반 게임 내 AI 기능  
+### 🎮 Langchain 및 LangGraph 기반 감성일지 생성 및 통합 에셋 생성 에이전트
 > 감성일지 생성 및 MBTI 기반 성향 추론 시스템 (`ProjectISG-AI`)  
-- **기간:** 2025.04 ~ 진행중
+- **기간:** 2025.04 ~ 2025.06
 - **기술 스택:** FastAPI, LangGraph, Ollama, PostgreSQL, MongoDB  
-- **설명:** 감성일지 생성, MBTI 분석, 행동 로그 관리, SFX 생성 등 게임 내 실제 적용 가능한 AI 백엔드 모듈 설계 및 구현. LangGraph 기반 LLM 분기 구조와 DB 병렬 설계 적용.  
+- **설명:** 감성일지 생성, MBTI 성향 추론, 디스코드 통합 에셋 생성 에이전트 등 게임 내 실제 적용 가능한 AI 백엔드 모듈 설계 및 구현. LangGraph 기반 LLM 분기 구조와 DB 병렬 설계 적용.  
 - 🔗 [Repo Link](https://github.com/OnyX0000/ProjectISG-AI)
 
 ### 🧑‍🏫 LLM + 멀티모달 발표 자동화 시스템  
