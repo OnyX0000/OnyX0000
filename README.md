@@ -7,7 +7,7 @@
 ---
 
 > **"기술은 만들어내는 것보다, 살아 숨 쉬게 만드는 것이 중요하다."**  
-> 데이터와 AI를 현장에 실질적으로 녹여내는 실전형 데이터 사이언티스트입니다.
+> 데이터와 AI를 현장에 실질적으로 녹여내고 싶습니다.
 
 ---
 
@@ -104,7 +104,7 @@
 - **설명:** CCTV 기반 주차공간 탐지 및 차량 추적 시스템. YOLO 및 DeepSORT를 활용해 주차 인식 API 및 시각화 구현.  
 - 🔗 [Repo Link](https://github.com/OnyX0000/Parking_Genius)
 
-### 📈 머신러닝 기반 콘텐츠 트렌드 분석 시스템  
+### 📈 머신러닝 기반 웹툰 트렌드 분석 시스템  
 > 네이버 웹툰 댓글 기반 인기 예측 및 감정분석 모델링 (`K-Webtoon-Popularity-Prediction`)  
 - **기간:** 2025.01 ~ 2025.02  
 - **기술 스택:** Python, LightGBM, XGBoost, KoBERT, 감정분석  
@@ -118,11 +118,13 @@
 - **설명:** 건설공사 사고 데이터를 기반으로 사고 원인 분석 및 유사 사례 검색, 대응 문구 자동 생성하는 RAG 기반 LLM 시스템.  
 - 🔗 [README](https://github.com/OnyX0000/Dacon/tree/main/Construction_accident_prediction)
 
-### 🛡️ 악성 URL 탐지 시스템  
-> 도메인 기반 악성 URL 여부 판별 모델 및 사용자 시각화 페이지 구현 (`Mal_URL`)  
+### 🛡️ 악성 URL 탐지 모델
+> 도메인 기반 악성 URL 여부 판별 모델 구현 (`Mal_URL`)  
 - **기간:** 2025.02 ~ 2025.03  
 - **기술 스택:** Python, Scikit-learn, LightGBM, Pandas  
-- **설명:** URL 특성을 분석해 악성 여부를 분류하고 탐지 결과를 웹으로 시각화한 머신러닝 기반 보안 모델 구축.  
+- **설명:** URL 특성을 분석해 악성 여부를 분류하는 ML 모델 구축.
+- 🏆 **성과:**  
+  - Dacon 악성 URL 분류 AI 경진대회 **19위**  
 - 🔗 [Repo Link](https://github.com/OnyX0000/Dacon/tree/main/Mal_URL)
 
 ### 🚍 대중교통 기반 사용자 이동 분석  
