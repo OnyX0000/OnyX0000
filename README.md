@@ -116,7 +116,7 @@
 - **기간:** 2025.03 ~ 2025.03  
 - **기술 스택:** LangChain, FAISS, SentenceTransformer  
 - **설명:** 건설공사 사고 데이터를 기반으로 사고 원인 분석 및 유사 사례 검색, 대응 문구 자동 생성하는 RAG 기반 LLM 시스템.  
-- 🔗 [README](https://github.com/OnyX0000/Dacon/tree/main/Construction_accident_prediction)
+- 🔗 [Repo Link](https://github.com/OnyX0000/Dacon/tree/main/Construction_accident_prediction)
 
 ### 🛡️ 악성 URL 탐지 모델
 > 도메인 기반 악성 URL 여부 판별 모델 구현 (`Mal_URL`)  
